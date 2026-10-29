@@ -1,0 +1,8 @@
+{
+  "name": "AcetoSense - AI-Assisted Acetone Sensing & Glucose Insights",
+  "description": "Smart Sensing. Connected Health. Experimental Insights. USB Serial connectivity for ESP32 acetone sensor prototypes with real-time telemetry, trend analysis, and personalized health guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
